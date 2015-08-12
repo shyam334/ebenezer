@@ -50,6 +50,7 @@ Types
   Read bytes                                                      ${check("byte", fromBytish)}
   Read shorts                                                     ${check("short", fromShortish)}
   Read ints                                                       ${check("int", fromIntish)}
+  Read longs                                                      ${check("long", fromLongish)}
   Read strings                                                    ${check("string", fromStringish)}
   Read nested                                                     ${check("nested", fromNestedish)}
   Read lists                                                      ${check("list", fromListish)}
