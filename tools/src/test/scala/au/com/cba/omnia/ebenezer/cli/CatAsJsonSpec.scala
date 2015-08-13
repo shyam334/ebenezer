@@ -194,5 +194,5 @@ Types
 
         result.toSet must_== data.map(converter).toSet
       })
-    }.set(minTestsOk = 10)
+    }.set(minTestsOk = 5)
 }
